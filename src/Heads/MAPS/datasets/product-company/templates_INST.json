@@ -1,0 +1,7 @@
+[
+  "Which company is the product from?Q: <X>\nA:",
+  "Which company makes the given product?\nProduct: <X>\nCompany:",
+  "Task definition: given a product, which company makes it?\nInput: <X>\nOutput:",
+  "Product -> Company owning it\nProduct: <X>\nCompany:",
+  "Tell me which company makes the following product.\nQ: <X>\nA:"
+]

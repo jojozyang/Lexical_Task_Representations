@@ -1,0 +1,7 @@
+[
+  "Q: Ethiopia\nA: Addis Ababa\nQ: Saint Lucia\nA: Castries\nQ: Senegal\nA: Dakar\nQ: Cuba\nA: Havana\nQ: Italy\nA: Rome\nQ: <X>\nA:",
+  "A: Ecuador\nB: Quito\n\nA: Guatemala\nB: Guatemala City\n\nA: Bolivia\nB: La Paz\n\nA: Yemen\nB: Sana'a\n\nA: Argentina\nB: Buenos Aires\n\nA: <X>\nB:",
+  "input: Cyprus\n\noutput: Nicosia\n\ninput: Bahrain\n\noutput: Manama\n\ninput: Eritrea\n\noutput: Asmara\n\ninput: Vietnam\n\noutput: Hanoi\n\ninput: Comoros\n\noutput: Moroni\n\ninput: <X>\n\noutput:",
+  "Input: Kenya\nOutput: Nairobi|Input: Kazakhstan\nOutput: Astana|Input: Cyprus\nOutput: Nicosia|Input: Senegal\nOutput: Dakar|Input: Uganda\nOutput: Kampala|Input: <X>\nOutput:",
+  "Input: Moldova|A: Chisinau\nInput: Colombia|A: Bogot\u00e1\nInput: Antigua and Barbuda|A: St. John's\nInput: Tunisia|A: Tunis\nInput: Montenegro|A: Podgorica\nInput: <X>|A:"
+]

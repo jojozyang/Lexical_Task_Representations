@@ -1,0 +1,7 @@
+[
+  "What is the capital of the country? Q: <X>\nA:",
+  "Country -> Capital\n\nCountry: <X>\nCapital:",
+  "Task: given the country, answer the capital of the country.\n\nInput: <X>\nOutput:",
+  "What capital city does this country have?\n\nInput: <X>\nOutput:",
+  "Instructions: you are given a country and you need to output the capital city of that country.\n\nInput: <X>\nOutput:"
+]

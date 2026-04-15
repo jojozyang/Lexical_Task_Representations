@@ -1,0 +1,7 @@
+[
+  "Q: WebKit\nA: Apple\nQ: Yorkfield\nA: Intel\nQ: Event Viewer\nA: Microsoft\nQ: Alfa Romeo MiTo\nA: Fiat\nQ: YUI Library\nA: Yahoo\nQ: <X>\nA:",
+  "A: Fantasy Zone\nB: Sega\n\nA: Autobianchi A112\nB: Fiat\n\nA: Geo Metro\nB: Suzuki\n\nA: Windows XP\nB: Microsoft\n\nA: M6 Gun Motor Carriage\nB: Dodge\n\nA: <X>\nB:",
+  "input: Windows Embedded CE 6.0\n\noutput: Microsoft\n\ninput: Final Cut Studio\n\noutput: Apple\n\ninput: HyperCard\n\noutput: Apple\n\ninput: iOS 5\n\noutput: Apple\n\ninput: Windows Live Mail\n\noutput: Microsoft\n\ninput: <X>\n\noutput:",
+  "Input: Shahab-4\nOutput: Iran|Input: Windows Internet Explorer 8\nOutput: Microsoft|Input: Windows Embedded CE 6.0\nOutput: Microsoft|Input: Final Fantasy X\nOutput: Square|Input: Event Viewer\nOutput: Microsoft|Input: <X>\nOutput:",
+  "Input: GW-BASIC|A: Microsoft\nInput: Android Runtime|A: Google\nInput: Vector Markup Language|A: Microsoft\nInput: Lancia Dedra|A: Fiat\nInput: Android Auto|A: Google\nInput: <X>|A:"
+]
